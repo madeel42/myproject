@@ -1,0 +1,11 @@
+.ht{
+    text-align: center;
+}
+.vt{
+    color: red;
+    background-color: brown;
+    text-align: center;
+    font-weight: bold;
+    font-size:100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
